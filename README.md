@@ -16,3 +16,6 @@ FuReact Functional components and their reusability
 
 
 
+![git2](https://user-images.githubusercontent.com/66530112/154297506-43c798df-d253-47b9-8a28-3b721438ce5d.png)
+![git](https://user-images.githubusercontent.com/66530112/154297517-d4acbb2b-005a-4790-97ac-4903ec76a478.png)
+![git1](https://user-images.githubusercontent.com/66530112/154297532-c6f02464-3dc6-4116-9e7c-f16364d3fe86.png)
