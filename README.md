@@ -1,7 +1,7 @@
 # GPT3_UIUX
 It's a Simple UI frontend using Figma, ReactJs, CSS.
 Tech Stack used : FIGMA, REACTJS, CSS
-FuReact Functional components and their reusability
+React functionalities used :
 1) React file and folder structure
 2) Fundamental CSS properties to master flex & grid
 3) Fundamentals of the CSS BEM Model
@@ -13,6 +13,7 @@ FuReact Functional components and their reusability
 9) Fundamentals of the CSS BEM Model
 10) From soft and pleasant animations to complex gradients
 11) Perfectly placed media queries for satisfactory responsiveness covering almost devices
+12) React Functional components and their reusability
 
 
 
